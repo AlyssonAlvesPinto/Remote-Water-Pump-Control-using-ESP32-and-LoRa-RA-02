@@ -16,6 +16,8 @@ Jumper wires and breadboard
 The Remote ESP32 (sender) monitors water levels at the reservoir.
 It sends a signal via LoRa when either minimum or maximum level is reached.
 The Base ESP32 (receiver) receives the signal and activates/deactivates the water pump accordingly. 
+
+
 📡 LoRa CommunicationLevel Detected Signal SentMinimum LOWMaximum HIGH 
 
 
