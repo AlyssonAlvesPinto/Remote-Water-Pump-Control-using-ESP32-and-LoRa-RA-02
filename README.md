@@ -1,7 +1,16 @@
 # Remote-Water-Pump-Control-using-ESP32-and-LoRa-RA-02
 This project enables remote control of a water pump based on two water level sensors (minimum and maximum), using LoRa communication between two ESP32 boards. 
 
+Esp32 and Lora RA-02 wiring
 ![image alt](https://github.com/AlyssonAlvesPinto/Remote-Water-Pump-Control-using-ESP32-and-LoRa-RA-02/blob/main/Esp32LoraRA-02.png?raw=true)
+
+
+Transmiter sistem wiring
+![image alt](https://github.com/AlyssonAlvesPinto/Remote-Water-Pump-Control-using-ESP32-and-LoRa-RA-02/blob/main/Esp32LoraRA-02CompletoTransmiter.png?raw=true)
+
+Receiver sistem wiring
+![image alt](https://github.com/AlyssonAlvesPinto/Remote-Water-Pump-Control-using-ESP32-and-LoRa-RA-02/blob/main/Esp32LoraRA-02CompletoReceiver.png?raw=true)
+
 
 
 🔧 Components 
